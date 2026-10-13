@@ -2,7 +2,7 @@
 
 <h3 align="center">خطة تقييم المخاطر والتخفيف منها — نظام مساعد ضمان الجودة والفرز الذكي للأخطاء المدعوم بالذكاء الاصطناعي</h3>
 
-<p align="center">![Academic Year](https://img.shields.io/badge/Academic_Year-2026--2027-0078b8?style=flat-square) ![Team](https://img.shields.io/badge/Team-Bug_Busters1-e8702a?style=flat-square) ![Supervisor](https://img.shields.io/badge/Supervisor-Ahmed_Abd_Elhafez-4c9a16?style=flat-square) ![Team Leader](https://img.shields.io/badge/Team_Leader-Ahmed_Omar-8e24aa?style=flat-square) ![Author](https://img.shields.io/badge/Author-Jana-c2185b?style=flat-square)</p>
+<p align="center"><img src="https://img.shields.io/badge/Academic_Year-2026--2027-0078b8?style=flat-square" alt="Academic Year"> <img src="https://img.shields.io/badge/Team-Bug_Busters1-e8702a?style=flat-square" alt="Team"> <img src="https://img.shields.io/badge/Supervisor-Ahmed_Abd_Elhafez-4c9a16?style=flat-square" alt="Supervisor"> <img src="https://img.shields.io/badge/Team_Leader-Ahmed_Omar-8e24aa?style=flat-square" alt="Team Leader"> <img src="https://img.shields.io/badge/Author-Jana-c2185b?style=flat-square" alt="Author"></p>
 
 <p align="center"><i>وثيقة تحدد مخاطر مشروع QA Assistant System وتقدّر احتمالها وتأثيرها، وتضع خطط التخفيف والمتابعة لكل خطر.</i></p>
 
