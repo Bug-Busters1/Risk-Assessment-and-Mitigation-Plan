@@ -12,7 +12,7 @@
 
 - [ملخص المشروع (Project Summary)](#1-project-summary-ملخص-المشروع)
 - [الهدف من خطة المخاطر (Purpose)](#2-purpose-of-the-risk-plan-الهدف-من-خطة-المخاطر)
-- [📐 المنهجية والمقاييس (Methodology & Scales)](01_METHODOLOGY_AND_SCALES.md)
+- [📐 مقاييس الخطر (Risk Scales & Scoring)](01_RISK_SCALES.md)
 - [📊 سجل المخاطر (Risk Register)](02_RISK_REGISTER.md)
 - [🛡️ خطة التخفيف والاستجابة (Mitigation Plan)](03_MITIGATION_PLAN.md)
 - [🤖 تقييم الذكاء الاصطناعي والتحقق الأمني (AI Evaluation & Security)](04_AI_EVALUATION_AND_SECURITY.md)
@@ -65,7 +65,7 @@
 
 يمكنك الاطلاع على تفاصيل خطة المخاطر من خلال الملفات التالية المتاحة في المستودع:
 
-- 📐 [Methodology & Scales](01_METHODOLOGY_AND_SCALES.md) (منهجية التقييم ومقاييس الاحتمال والتأثير)
+- 📐 [Risk Scales & Scoring](01_RISK_SCALES.md) (مقاييس الاحتمال والتأثير وحساب درجة الخطر)
 - 📊 [Risk Register](02_RISK_REGISTER.md) (سجل المخاطر الرئيسي والترابط بينها)
 - 🛡️ [Mitigation & Response Plan](03_MITIGATION_PLAN.md) (خطة التخفيف والاستجابة)
 - 🤖 [AI Evaluation & Security Verification](04_AI_EVALUATION_AND_SECURITY.md) (تقييم الذكاء الاصطناعي والتحقق الأمني)

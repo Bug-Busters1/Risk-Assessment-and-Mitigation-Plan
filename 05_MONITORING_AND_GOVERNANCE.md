@@ -71,7 +71,7 @@
 
 | Version | Date | Author | Change (التغيير) |
 |---|---|---|---|
-| 1.0 | 2026-10-14 | Jana | Final bilingual formatting (English headings + Arabic content) — تنسيق نهائي ثنائي اللغة |
+| 1.0 | 2026-10-14 | Jana | Initial release — الإصدار الأول |
 
 ---
 
